@@ -1,0 +1,10 @@
+document.writeln("<script charset=\'UTF-8\' id=\'LA_COLLECT\' src=\'//sdk.51.la/js-sdk-pro.min.js?id=JI2wZNYfn9Rl7Fha&ck=JI2wZNYfn9Rl7Fha\'></script>");
+document.writeln("<script>");
+document.writeln("var _hmt = _hmt || [];");
+document.writeln("(function() {");
+document.writeln("  var hm = document.createElement(\'script\');");
+document.writeln("  hm.src = \'https://hm.baidu.com/hm.js?bf9e9c66c40abf8432da400d931c653a\';");
+document.writeln("  var s = document.getElementsByTagName(\'script\')[0]; ");
+document.writeln("  s.parentNode.insertBefore(hm, s);");
+document.writeln("})();");
+document.writeln("</script>");
